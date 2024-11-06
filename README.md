@@ -1,4 +1,4 @@
-# 🚍 하루의 마무리를 위한 clamcalm
+# 🚍 하루의 마무리를 위한 CalmCalm
 
 ![image](https://github.com/user-attachments/assets/6ff1b219-841b-4f82-839f-dedfad6464ca)
 
